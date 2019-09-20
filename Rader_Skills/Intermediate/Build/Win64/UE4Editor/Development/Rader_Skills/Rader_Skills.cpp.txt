@@ -1,0 +1,2 @@
+C:\Users\br473617\Desktop\skillTest\Rader_Skills\Intermediate\Build\Win64\UE4Editor\Development\Rader_Skills\Definitions.Rader_Skills.h
+c:\users\br473617\desktop\skilltest\rader_skills\source\rader_skills\Rader_Skills.h

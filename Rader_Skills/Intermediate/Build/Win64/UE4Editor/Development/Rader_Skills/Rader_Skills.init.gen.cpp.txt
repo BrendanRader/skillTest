@@ -1,0 +1,3 @@
+C:\Users\br473617\Desktop\skillTest\Rader_Skills\Intermediate\Build\Win64\UE4Editor\Development\Rader_Skills\Definitions.Rader_Skills.h
+C:\Program Files\Epic Games\UE_4.22\Engine\Source\Runtime\CoreUObject\Public\UObject/GeneratedCppIncludes.h
+C:\Program Files\Epic Games\UE_4.22\Engine\Source\Runtime\CoreUObject\Public\UObject/MetaData.h

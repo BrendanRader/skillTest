@@ -1,0 +1,9 @@
+C:\Users\brend\Desktop\skillTest\Rader_Skills\Intermediate\Build\Win64\UE4Editor\Development\Rader_Skills\Definitions.Rader_Skills.h
+C:\Program Files\Epic Games\UE_4.22\Engine\Source\Runtime\CoreUObject\Public\UObject/GeneratedCppIncludes.h
+C:\Program Files\Epic Games\UE_4.22\Engine\Source\Runtime\CoreUObject\Public\UObject/MetaData.h
+C:\Users\brend\Desktop\skillTest\Rader_Skills\Source\Rader_Skills/Rader_SkillsCharacter.h
+C:\Program Files\Epic Games\UE_4.22\Engine\Source\Runtime\Engine\Classes\GameFramework/Character.h
+C:\Program Files\Epic Games\UE_4.22\Engine\Source\Runtime\Engine\Classes\GameFramework/RootMotionSource.h
+C:\Program Files\Epic Games\UE_4.22\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\RootMotionSource.generated.h
+C:\Program Files\Epic Games\UE_4.22\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\Character.generated.h
+c:\users\brend\desktop\skilltest\rader_skills\intermediate\build\win64\ue4editor\inc\rader_skills\Rader_SkillsCharacter.generated.h

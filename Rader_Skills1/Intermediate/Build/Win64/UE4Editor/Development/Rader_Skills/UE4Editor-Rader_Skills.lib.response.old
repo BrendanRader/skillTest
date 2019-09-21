@@ -1,0 +1,16 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UE4Editor-Rader_Skills.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"C:\Users\br473617\Desktop\skillTest\Rader_Skills\Intermediate\Build\Win64\Rader_SkillsEditor\Development\Engine\SharedPCH.Engine.h.obj"
+"C:\Users\br473617\Desktop\skillTest\Rader_Skills\Intermediate\Build\Win64\UE4Editor\Development\Rader_Skills\Rader_Skills.cpp.obj"
+"C:\Users\br473617\Desktop\skillTest\Rader_Skills\Intermediate\Build\Win64\UE4Editor\Development\Rader_Skills\Rader_SkillsGameModeBase.cpp.obj"
+"C:\Users\br473617\Desktop\skillTest\Rader_Skills\Intermediate\Build\Win64\UE4Editor\Development\Rader_Skills\Rader_Skills.init.gen.cpp.obj"
+"C:\Users\br473617\Desktop\skillTest\Rader_Skills\Intermediate\Build\Win64\UE4Editor\Development\Rader_Skills\Rader_SkillsGameModeBase.gen.cpp.obj"
+"C:\Users\br473617\Desktop\skillTest\Rader_Skills\Intermediate\Build\Win64\UE4Editor\Development\Rader_Skills\Default.rc2.res"
+/OUT:"C:\Users\br473617\Desktop\skillTest\Rader_Skills\Intermediate\Build\Win64\UE4Editor\Development\Rader_Skills\UE4Editor-Rader_Skills.lib"
+/INCLUDE:IMPLEMENT_MODULE_Rader_Skills

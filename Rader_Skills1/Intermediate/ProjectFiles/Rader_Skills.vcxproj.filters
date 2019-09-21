@@ -1,0 +1,45 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="14.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <None Include="..\..\Rader_Skills.uproject" />
+    <Filter Include="Source">
+      <UniqueIdentifier>{741A0E3E-BCB5-4B4D-8397-4924963DBD72}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\Rader_Skills.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\Source\Rader_SkillsEditor.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <Filter Include="Config">
+      <UniqueIdentifier>{923BBC01-8559-4405-A9AF-608F57284B5B}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\DefaultEditor.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEngine.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultGame.ini">
+      <Filter>Config</Filter>
+    </None>
+    <Filter Include="Source\Rader_Skills">
+      <UniqueIdentifier>{AF00D16C-59AA-4186-BE3F-3525E99F9663}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\Rader_Skills\Rader_Skills.Build.cs">
+      <Filter>Source\Rader_Skills</Filter>
+    </None>
+    <ClCompile Include="..\..\Source\Rader_Skills\Rader_Skills.cpp">
+      <Filter>Source\Rader_Skills</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Rader_Skills\Rader_Skills.h">
+      <Filter>Source\Rader_Skills</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\Rader_Skills\Rader_SkillsGameModeBase.cpp">
+      <Filter>Source\Rader_Skills</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Rader_Skills\Rader_SkillsGameModeBase.h">
+      <Filter>Source\Rader_Skills</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>

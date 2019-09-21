@@ -21,8 +21,8 @@ void EmptyLinkFunctionForGeneratedCodeRader_Skills_init() {}
 				nullptr,
 				0,
 				PKG_CompiledIn | 0x00000000,
-				0x7ED2436F,
-				0x818C4793,
+				0x2061DE87,
+				0x7C77E6A8,
 				METADATA_PARAMS(nullptr, 0)
 			};
 			UE4CodeGen_Private::ConstructUPackage(ReturnPackage, PackageParams);
